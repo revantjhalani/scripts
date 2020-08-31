@@ -1,0 +1,4 @@
+#!/bin/sh
+powershell.exe mode
+powershell.exe 'Get-WMIObject Win32_SerialPort | Select-Object Name'
+
