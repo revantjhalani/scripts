@@ -1,0 +1,1 @@
+start control /name Microsoft.DeviceManager

@@ -1,0 +1,1 @@
+start "C:\Program Files (x86)\VMware\VMware Workstation\vmplayer.exe" "E:\VirtualMachines\Windows\Windows.vmx"

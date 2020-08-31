@@ -1,0 +1,2 @@
+mode
+timeout 20
